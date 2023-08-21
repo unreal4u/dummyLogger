@@ -2,8 +2,8 @@
   "name" : "unreal4u/dummy-logger",
   "description" : "Dummy logger that implements PSR-3 so that my own classes can work with a common base",
   "require" : {
-    "php" : ">=7.0.0",
-    "psr/log": "~1.0"
+    "php" : ">=8.1",
+    "psr/log": "^3.0"
   },
   "authors" : [ {
     "name" : "Camilo Sperberg",
