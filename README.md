@@ -1,6 +1,6 @@
 # unreal4u/dummy-logger
 
-Lightweight PSR-3 compatible Logging Framework for PHP7+ which, as the name implies, does not log or do anything else.
+Lightweight PSR-3 compatible Logging Framework for PHP8.1+ which, as the name implies, does not log or do anything else.
 
 This class only exists because I often will create my packages with a lot of debugging and other statements, and I see
 myself on the necessity of having this class defined in the package itself, which breaks the rule that a package should
